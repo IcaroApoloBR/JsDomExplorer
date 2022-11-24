@@ -1,6 +1,5 @@
-## Desafio Explorer RocketSeat
-### Exibir somente os cards filtrados através do campo de busca
+# Desafio Explorer RocketSeat
+## Exibir somente os cards filtrados através do campo de busca
 
-# Links Úteis
+### Links Úteis
 Explorer: https://rocketseat.com.br/explorer
-Phosphor Icons: https://phosphoricons.com/
